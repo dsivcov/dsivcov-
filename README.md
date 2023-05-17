@@ -4,6 +4,7 @@ Mein Name ist Daniel Sivcov und auf dieser Seite möchte meine abgeschlossenen S
 <h2>👨‍💻 Studienprojekte:</h2>
 
   - [Selbsthilfe App "Alpaka"](https://github.com/dsivcov/LABURL)
+  - [Redesign Vereinslogo SC Freiburg](https://github.com/dsivcov/LABURL)
 
 
 <h2>📺 Prozessvisualisierungen</h2>
